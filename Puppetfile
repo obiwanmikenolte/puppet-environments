@@ -1,2 +1,2 @@
-mod 'puppetlabs/apache'
-mod 'puppetlabs/passenger'
+mod 'theforeman/foreman'
+mod 'theforeman/puppet'

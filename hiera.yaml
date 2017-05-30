@@ -1,0 +1,9 @@
+---
+:backends:
+  - yaml
+:hierarchy:
+  - "nodes/%{clientcert}"
+  - common
+
+:yaml:
+  :datadir: "%{confdir}/environments/%{environment}/hiera"
